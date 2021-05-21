@@ -1,0 +1,36 @@
+{
+  "dishes": [
+    {
+      "id": 2,
+      "name": "Appale",
+      "protein": "12",
+      "carbs": "43",
+      "fats": "4",
+      "calories": "87"
+    },
+    {
+      "id": 1,
+      "name": "Banana",
+      "protein": "12",
+      "carbs": "43",
+      "fats": "4",
+      "calories": "42"
+    },
+    {
+      "id": 3,
+      "name": "Mango",
+      "protein": "12",
+      "carbs": "43",
+      "fats": "4",
+      "calories": "53"
+    },
+    {
+      "name": "mayur",
+      "protein": "23",
+      "carbs": "34",
+      "fats": "33",
+      "calories": "12",
+      "id": 4
+    }
+  ]
+}
